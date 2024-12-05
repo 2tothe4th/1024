@@ -1,1 +1,1 @@
-alert("happy! happy! happy!");
+alert("test");
